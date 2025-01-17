@@ -218,7 +218,6 @@ http://lrcshare.com/lrc/703f66f7/
 http://lrcshare.com/lrc/9c5b0a48/
 http://lrcshare.com/lrc/e215f83a/
 http://lrcshare.com/lrc/879cc9a2/
-http://lrcshare.com/lrc/b27fb1d5/index.html
 http://lrcshare.com/lrc/edec59f9/
 http://lrcshare.com/lrc/b61d6678/
 http://lrcshare.com/lrc/fb5e5064/
@@ -430,7 +429,6 @@ http://lrcshare.com/lrc/e2290c0a/
 http://lrcshare.com/lrc/d007b3e2/
 http://lrcshare.com/lrc/f9ccd3fb/
 http://lrcshare.com/lrc/70a90bc6/
-http://lrcshare.com/lrc/6f73842d/index.html
 http://lrcshare.com/lrc/5875f0f0/
 http://lrcshare.com/lrc/fd97cd78/
 http://lrcshare.com/lrc/53c64af2/
@@ -459,7 +457,6 @@ http://lrcshare.com/lrc/c0c36cbc/
 http://lrcshare.com/lrc/80a42037/
 http://lrcshare.com/lrc/85cd22f9/
 http://lrcshare.com/lrc/2235968f/
-http://lrcshare.com/lrc/5f3d2e6f/index.html
 http://lrcshare.com/lrc/17be0d9c/
 http://lrcshare.com/lrc/b36efc86/
 http://lrcshare.com/lrc/92764bb2/
@@ -511,12 +508,6 @@ http://lrcshare.com/lrc/ffb45559/
 http://lrcshare.com/lrc/a02a58db/
 http://lrcshare.com/lrc/8a986fa4/
 http://lrcshare.com/lrc/5dc975a/
-http://lrcshare.com/lrc/2530716d/index.html
-http://lrcshare.com/lrc/734422a2/index.html
-http://lrcshare.com/lrc/c0d9383d/index.html
-http://lrcshare.com/lrc/ab8dc26f/index.html
-http://lrcshare.com/lrc/e9243a86/index.html
-http://lrcshare.com/lrc/f318d4a8/index.html
 http://lrcshare.com/categories/index.html
 http://lrcshare.com/lrc/9e10e65d/
 http://lrcshare.com/lrc/353c3cf/
@@ -562,8 +553,6 @@ http://lrcshare.com/lrc/c578a854/
 http://lrcshare.com/lrc/b3e3de5a/
 http://lrcshare.com/lrc/9dd0df74/
 http://lrcshare.com/lrc/fa5e2a83/
-http://lrcshare.com/lrc/6932f35a/index.html
-http://lrcshare.com/lrc/a0653ba3/index.html
 http://lrcshare.com/wanted/index.html
 http://lrcshare.com/lrc/af86e958/
 http://lrcshare.com/lrc/d91ed4ae/
